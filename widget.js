@@ -6,7 +6,7 @@
  * }
  * window.Widget.extend = function() {}
  * @author xiaole@baidu.com
- * @date 2013/1/25
+ * @date 2013/11/25
  */
 window.Widget = (function() {
 	var self;
